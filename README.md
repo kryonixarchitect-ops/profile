@@ -1,19 +1,18 @@
+
 # KRYONIX Labs
-> **"Entropy is the only constant. We are the regulator."**
+> **Thermodynamic Sovereignty & Computational Arbitrage.**
 
 ---
 
-### [0x00] Status: Stealth Mode
-KRYONIX is a Layer 0 protocol designed for the 2026 compute landscape. We manage the global GPU grid as a single, fluid thermodynamic system. 
+### [0x00] Philosophy
+Computing is no longer a software challenge; it is a thermodynamic one. KRYONIX is a Layer 0 protocol designed to treat the global GPU grid as a single, fluid entropy system. 
 
-### [0x01] Principles
-- **Asynchronicity:** We do not have meetings. We do not have calls. We ship code.
-- **Sovereignty:** Mathematical optimization of the electron-to-FLOP pipeline.
-- **Meritocracy:** Access to our internal kernel is earned, not granted.
+### [0x01] Operational Status: STEALTH
+We operate asynchronously. We do not have meetings. We do not have "culture fits". We have code and physics. 
 
-### [0x02] Active Repositories
-- **gridos-core**: Specifications, logic models, and the entry portal (Issue #1).
-- **gridos-kernel**: [PRIVATE] Core eBPF drivers and non-linear scheduler.
+### [0x02] Core Infrastructure
+- **gridos-core**: Public specifications, RFCs, and the entry merit-wall.
+- **gridos-kernel**: [PRIVATE] Proprietary eBPF drivers and non-linear schedulers.
 
 ---
-*If you are looking for a job, you are in the wrong place. If you are looking to solve the most difficult thermal problem in computing, see gridos-core/issues.*
+*Merit dictates access. If you are here to apply for a job, you are already too late. If you are here to solve the SMC bypass, see gridos-core/issues.*
